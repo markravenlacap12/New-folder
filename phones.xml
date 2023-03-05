@@ -1,1 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
+
+<phones>
+  <phone>
+    <brand>Samsung</brand>
+    <model>Galaxy S20</model>
+    <price>999</price>
+  </phone>
+  <phone>
+    <brand>Apple</brand>
+    <model>iPhone 11</model>
+    <price>699</price>
+  </phone>
+  <phone>
+    <brand>Google</brand>
+    <model>Pixel 4</model>
+    <price>799</price>
+  </phone>
+</phones>
